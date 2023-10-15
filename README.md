@@ -19,5 +19,5 @@ Upon colliding with a star, the game displays a "You Lost!" message in the cente
 
 ### Controls:
 
-Left Arrow Key: Move the starship to the left.
+Left Arrow Key: Move the starship to the left.\n
 Right Arrow Key: Move the starship to the right.
